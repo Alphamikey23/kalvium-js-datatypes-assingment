@@ -20,11 +20,11 @@ numbersData = 485;
 // Challenge 3: Assign a boolean value to the below variable.
 var booleanData;
 // Your code goes here
-
+booleanData = true;
 // Challenge 4: Assign a null value to the below variable.
 var nullData;
 // Your code goes here
-
+nullData = null;
 // Challenge 5: Assign an undefined value to the below variable.
 var undefinedData;
 // Your code goes here
